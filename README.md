@@ -54,16 +54,16 @@ The project of Rick and Morty is displaying the images and names from API and do
 
 There are some functions that used  for this project :
 
- 1-search:
+ 1-(search):
   there are many names in options that will display on the screen you can select any of them and it will display the image and name for the option that you selected.
 
-2-Add  :
+2-(Add)  :
 you can also add a new image and name, to add it to your cards.
 
- 3-Read or See more:
+ 3-(Read or See more):
 if you want to know more information about the card, there is a link under each image you can click and see more information.
 
-4-Remove :
+4-(Remove ):
 if you don't like some card on the list there is an icon under the image (trash) you can click it to remove the card.
 
 
@@ -85,4 +85,4 @@ build functions because I don't have experience, it's taken a long time
 
 2-Here is the link of Trello board => https://trello.com/b/zyy3vvrB/project-unit01
 
-3-Also if you want to check my project I upload it and here is the link for you 🤍 =>
+3-Also if you want to check my project I upload it and here is the link for you 🤍 =>https://shahad-f.github.io/Rick-And-Morty/
