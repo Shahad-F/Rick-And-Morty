@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap"
+      rel="stylesheet"
+    />
+    <title>Rick And Morty .</title>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+  </head>
+
+  <body>
+    <!-- there is a header of page  -->
+    <header>
+      <div class="up">
+        <h3>RICK AND MORTY</h3>
+      </div>
+  
+      <nav>
+        <img src="/image/header2.jpg" alt="" width="100% " height="30%" />
+      </nav>
+
+     <br>
+    </header>
+
+    <form class="form01">
+       
+        <br />
+<!--  -->
+      <h1>List Of Carts Names .</h1>
+
+  <div id="Names">
+  <select id="NamesOptionBig" onchange="LoadByName(this.value)"> 
+  <option >Choose A Name ..</option>
+</select>
+
+</div>
+
+<div id="OptionCart">
+   
+
+</div>
+      
+<!--  -->
+ 
+    </form>
+    <br>
+    <button class="add">
+      <a href="#" id="add2" onclick="showForm()">
+      <ion-icon name="add-circle-outline"></ion-icon>
+              Add New Cart
+       </a></button>
+    <!-- Hidden part -->
+
+    
+    <form id="FORM1" class="in">
+
+<h2>Enter Some Information ...</h2>
+
+      <h4>Name of New Cart  :
+       <input type="text" id="name" placeholder="Enter a name  ." /><br /></h4>
+      <h4> Link of New Image :
+        <input type="text" id="image" placeholder="Enter name of image ."/></h4>
+      <br>
+      <button class="hide" id="Add"  >add</button>
+      <button class="hide" id="hide"  >Cencel</button>
+ 
+    </form>
+
+     
+<br>
+         
+          <div id='moreInfo' class="show">
+            
+          </div>
+        
+        
+            
+    
+       
+           <div id="parent"></div>
+    
+  
+           
+    <script src="fetch.js"></script>
+    <script src="Search.js"></script>
+  </body>
+</html>

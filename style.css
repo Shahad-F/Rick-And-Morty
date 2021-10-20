@@ -1,0 +1,214 @@
+ 
+@media   screen  and (min-width: 900px) {
+    
+    #parent{
+
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr ;
+        gap: 2;
+    }
+    .add{
+    
+        left: 40%;   
+     }
+
+
+}
+/* for tablet */
+@media  screen and (max-width:950px) and (min-width:750px)   {
+
+    
+
+     #parent{
+         display: grid;
+         grid-template-columns: 1fr 1fr;
+         gap: 2;
+     } 
+     .add{
+    
+        left: 30%;   
+     }
+}
+
+
+ /* it's for mobile */
+.form01{
+    background-color: rgb(252, 250, 177);
+}
+h1{
+    color: rgb(240, 84, 57);
+    font-family: cursive;
+}
+ 
+#parent{ 
+    border: groove;
+    margin-top: 20ch;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+ 
+#parent a{
+    
+    color: rgb(21, 50, 180);
+    margin: 2ch;
+    font-size: 30px;
+    
+}
+#parent ion-icon{
+    color: red;
+    font-size: 30px;
+    
+     
+}
+#parent div nav{
+    background-color: rgb(255, 241, 241);
+    border-style:outset ;
+    padding-bottom: 2ch;
+    margin: 2ch;
+     
+     
+}
+#parent div{
+    background-color: rgb(241, 233, 227);
+}
+ #parent img{
+     margin: 2ch;
+     margin-bottom: 2ch;
+     width: 80%;
+
+ }
+.up{
+    background-color: rgb(241, 216, 216);
+    padding: 1ch;
+}
+.but{
+
+text-align: right;
+
+
+}
+button{
+    background-color: rgba(247, 191, 88, 0.699);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: darkblue;
+     margin-right: 4ch;
+     padding: 1ch;
+     border: none;
+     cursor: pointer;
+}
+h3{
+    font-family: 'Roboto'; 
+    margin-left: 2ch;
+    color: rgb(223, 114, 114);
+    font-weight:  bolder;
+    font-size: 40px;
+     
+}
+ h2{
+     color: rgb(77, 22, 206);
+     font-family:cursive;
+ }
+ h4{
+    color: rgb(119, 8, 82);
+    font-family:cursive;  
+    font-size: 20px;
+ }
+ h5{
+     font-size: 30px;
+ }
+.down{
+    border: inset;
+      
+}
+.add{
+    
+   background-color: rgb(102, 102, 233);  
+   text-align: center;
+   margin: 1ch;
+   position: relative;
+   
+   
+   
+}
+ion-icon{
+    color: rgb(239, 239, 247);
+    cursor: pointer;
+
+}
+a{
+    color: rgb(250, 251, 252);
+    padding: 2ch;
+    
+}
+form{
+    text-align: center;
+     width: 100%;
+     border-style:outset;
+     background-color:  rgb(247, 228, 230);
+}
+form button{
+    background-color: rgb(74, 223, 74);
+    padding: 1ch;
+    cursor: pointer;
+    border-radius: 35%;
+}
+.hide{
+    background-color: red;
+    margin: 1ch;
+    color: rgb(247, 243, 242);
+    border-radius: 24%;
+}
+#Add{
+background-color: seagreen;
+}
+input{
+    width: 50%;
+    padding: 1ch;
+    margin: 1ch;
+     
+}
+.in{
+    width: 100%;
+    background-color: rgb(222, 228, 241);
+  
+  
+     
+}
+.in input{
+    width: 30%;
+     font-family:cursive;
+     font-size: 15px;
+     color: rgb(26, 52, 168);
+  
+}
+select{
+    padding: 2ch;
+    margin: 2ch;
+}
+option{
+    font-size: 20px;
+}
+ 
+#more{
+    display: none;
+}
+.show{
+   
+  
+  text-align: center;
+  margin-top: 1ch;
+  padding-top: 2ch;
+
+}
+.show button{
+    margin: 1ch;
+}
+ 
+#OptionCart{
+    background-color: white
+    
+
+}
