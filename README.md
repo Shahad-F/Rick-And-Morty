@@ -9,7 +9,7 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 <br />
 <div align="center">
   <p align="center">
-    Project for Unit 1
+    Project Unit-1  (Rick And Morty ) . 
     <br />
   </p>
 </div>
@@ -17,7 +17,7 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -40,14 +40,34 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://user-images.githubusercontent.com/63668672/137325603-26533686-071a-45a0-8239-2dec3ef6daab.png)
+The project of rick and morty is displaying the images and names from API.
+
+
+##Functionalities in the website:
+<h2>There are some functions that used  for this project :</h2>
+
+ <h3>1-search:<h3>
+  <p>there are many names in options that will display on the screen you can select any of them and it will display the image and name for the option that you selected.</p>
+
+2- Add  :
+you can also add a new image and name, to add it to your cards.
+
+3- Read or See more:
+if you want to know more information about the card, there is a link under each image you can click and see more information.
+
+4-Remove :
+if you don't like some card on the list there is an icon under the image (trash) you can click it to remove the card.
+
+
+
+<!-- ![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://user-images.githubusercontent.com/63668672/137325603-26533686-071a-45a0-8239-2dec3ef6daab.png)
 
 We are going for it! First project for the course, the task is simple enough. Build a website using everything we have learned in this unit. Try to take advantaje of the homework assignments that you have done yourself in the past to be able to apply some functionality for it.
 
@@ -63,7 +83,7 @@ Here are the requirements:
 * It needs to be responsive.
 
 BONUS
-* CRUD.
+* CRUD. -->
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
