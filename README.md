@@ -47,90 +47,42 @@ Outline of the project for Unit 1 using HTML, CSS &amp; JavaScript
 <!-- ABOUT THE PROJECT -->
  ## Project Unit-1  (Rick And Morty )
 
-The project of rick and morty is displaying the images and names from API.
+The project of Rick and Morty is displaying the images and names from API and doing some functions.
 
 
 ## Functionalities in the website:
 
-<h2>There are some functions that used  for this project :</h2>
+There are some functions that used  for this project :
 
-## 1-search:
+ 1-search:
   there are many names in options that will display on the screen you can select any of them and it will display the image and name for the option that you selected.
 
-## 2-Add  :
+2-Add  :
 you can also add a new image and name, to add it to your cards.
 
-## 3-Read or See more:
+ 3-Read or See more:
 if you want to know more information about the card, there is a link under each image you can click and see more information.
 
-## 4-Remove :
+4-Remove :
 if you don't like some card on the list there is an icon under the image (trash) you can click it to remove the card.
 
 
+ ## Tools used:
 
-<!-- ![screencapture-127-0-0-1-5501-2021-10-14-16_20_26](https://user-images.githubusercontent.com/63668672/137325603-26533686-071a-45a0-8239-2dec3ef6daab.png)
+1-CSS for styling website.
 
-We are going for it! First project for the course, the task is simple enough. Build a website using everything we have learned in this unit. Try to take advantaje of the homework assignments that you have done yourself in the past to be able to apply some functionality for it.
+2-Trello: Project management tool to organize the time and work.
 
-Here are the requirements:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others.
-* You should implement DRY principles for the rest of your life :smile:
-* As a user you have to be able to navigate some information and display it.
-* There needs to be some wireframing.
-* There needs to be a readme.
-* There needs to be a plan before hand that needs to be aproved by your instructor.
-* The use of Bootstrap is optional.
-* You have to use an API out of the options we give to fetch some information from the JSON.
-* It needs to be responsive.
+3-Figma: Wireframing that's helped me to design my website before jumping into coding
 
-BONUS
-* CRUD. -->
+## Problem encountered:
 
+Choosing the API: It took me one day while searching and trying more than one API to get the appropriate API, and then I choice Rick And Morty data API because there are many reactions on the faces in the images., so I liked that.
+Find good design: In fact, I have no experience in designing interfaces, but I tried to make the user interface simple and easy to use, and Figma helped me with that.
+build functions because I don't have experience, it's taken a long time
+## Link
+1-Here is the link of Figma wireframe =>https://www.figma.com/file/90dOFOkAqbdb5dsXGZ7ekW/Untitled?node-id=2%3A2
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+2-Here is the link of Trello board => https://trello.com/b/zyy3vvrB/project-unit01
 
-
-
-### List of APIs
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Fake Store API](https://fakestoreapi.com/docs)
-* [POKEMON API](https://pokeapi.co/)
-* [Rick and Morty API](https://rickandmortyapi.com/)
-* [Weather API](https://rapidapi.com/community/api/open-weather-map)
-* [Movies API](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ROADMAP -->
-## What do you need to get it approved before you start working?
-
-- [Step by step using Trello](https://trello.com/es)
-    - [] Design
-    - [] Backlog
-    - [] To do
-    - [] Doing
-    - [] Code Review
-    - [] Testing
-    - [] Done
-
-- [Wireframes using Figma](https://www.figma.com/files/search?model_type=files&fuid=910903139620418288)
-- Meeting all the requirements.
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Create a GitHub repo.
-- [x] Create a folder and files for your project. (index.html, style folder, style.css, javascript.js, images folder, etc)
-- [] Start with your html layout, from big sections to small sections.
-- [] Conect to the API and do a fetch request.
-- [] Display the information from your API on your webpage
-- [] Apply styles to your webpage.
-    - [] MOBILE FIRST
-    - [] Chose a color pallet
-    - [] Chose a font
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+3-Also if you want to check my project I upload it and here is the link for you 🤍 =>
