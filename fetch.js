@@ -121,7 +121,7 @@ addNew.addEventListener('click',Alert);
 function Alert(){
 
     
-    alert('You added new cart ..')
+    alert('You added new card ..')
 }
  
 
