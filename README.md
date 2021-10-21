@@ -84,4 +84,4 @@ build functions because I don't have experience, it's taken a long time
 
 2-Here is the link of Trello board => https://trello.com/b/zyy3vvrB/project-unit01
 
-3-Also if you want to check my project I upload it and here is the link for you 🤍 =>https://shahad-f.github.io/Rick-And-Morty/
+3-Also if you want to check my project I upload it and here is the link for you 🤍 =>https://shahad-f.github.io/Rick-And-Morty/?#
